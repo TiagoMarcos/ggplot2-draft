@@ -1,0 +1,2 @@
+install.packages("gglot2")
+library("ggplot2")
